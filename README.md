@@ -5,7 +5,7 @@
 # Файлы
 В директории [/presentations](https://github.com/zoratrix/mechatronics/tree/main/presentations) вы найдете презентации по трем блокам:
 - [Пневмоавтоматика](https://github.com/zoratrix/mechatronics/tree/main/presentations/pneumatics)
-- Мехатроника 
+- [Мехатроника]()
 - [Программирование ПЛК](https://github.com/zoratrix/mechatronics/tree/main/presentations/plc)
 
 В директории [/tasks](https://github.com/zoratrix/mechatronics/tree/main/tasks) находятся задания по блокам, отчеты о выполнении которых вы должны вставить в свой отчет по практике
